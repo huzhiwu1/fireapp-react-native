@@ -1,4 +1,4 @@
-const prefix = 'https://www.slwliot.cn';
+
 
 const userPrefix = prefix + '/user';
 
