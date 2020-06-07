@@ -1,0 +1,13 @@
+export const TOKEN = 'token';
+export const LOGOUT = 'logout';
+export const SETDEVICECARDLIST = 'setDeviceCardList';
+export const SETRECENTSISTUATION = 'setRecentSistuation';
+export const SETALLDEVICESITUATION = 'setAllDeviceSituation';
+export const SETDEVICEGROUPLIST = 'setDeviceGroupList';
+export const SETDEVICELIST = 'setDeviceList';
+export const PUSHDEVICELIST = 'pushDeviceList';
+export const USERINFO = 'userInfo';
+export const SETMESSAGE = 'setMessage';
+export const ADDMESSAGE = 'addMessage';
+export const DEVICEDETAIL = 'deviceDetail'
+export const USERINFOBYDEVICE = 'userInfoByDevice'

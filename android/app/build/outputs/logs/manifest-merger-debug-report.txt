@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9157f6b3b2958d6db5b6001325d87861/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-vector-icons] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/huzhiwu/Desktop/two/fireapp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/661bebd842147005ba694446a7762874/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e6d25ed935eb32bd05bd39ed46c6d4b6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1a56d08b15a5c92dd9bc919fd5b34531/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/97297662893be8b21dea2247f55c8247/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/59dc5272c96940463d1e3eb5c021f7cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5dc2fec73b570b59240196147cdd70f8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/28def9ffa8dd0ff97e386ffba7f31e45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/53091cba5f41427a861424ca47fd704e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/afb244fe4293b3d66466d76cf12db8c9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9e53486baf266fd8de90a40391f2661d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dcb9f1e498259e5293368f960e4406f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/6ec6d4c86a9124bf347cb52d9cca088f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dc51e105496715cc5fcbadfa2e558209/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/36e880547dcdaed131a1532326e1cce5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d9ce39555d70f60cd0b676da2f2fe3a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0a2eb25abec71c84c9b668a1af93ff99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d47e5afe950ddc82aa69b18d8869417f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e4674dbab185d121befd36e93ab73fc6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d4819fa912ba3a12859bfedec8a501d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/831a18d485a6dac72257d8e42070915e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/b9ef21159da220e5f6a9d177718d5494/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e037e2e5fd330885c2d0d546678a2ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/88073dcb444fc624a1954be89b3aa2e9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9c8a0e65f7ef646c2b5e889bdfbf38d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/44e3804239d5e7934fbe803f7bc77a47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/74de48aadae290ad6698225790d14693/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/367c1ac510bf9114e500c93d5d1b5a0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/84168964ba14b9a4b973e25011851b4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/f5c918c2ed9db3e89228e38630697dbc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/798b2e288218082d429669af7d3ff243/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/2d283ed3e8d13962d46bba9f2ce0bd73/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/c6f5cbcacb3d4b2744f71b16f7b9c76e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9757fa8de8bfd2774bf68bda2fb405ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7c710ac33bd8d4e072538b7db4efe02e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5bbc3044c3c66c47fe22c32364ff0519/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/72a4899c85aeffc9541006dbb21d1d05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7edb164a014dc7fe27637cf4197e0e57/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/779507d0c9fee81236258fc123036e53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69ad141e8e26cdf6836ba8500ab61a05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5584946cf40fa10cd1661fdf6c24b9f2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/fa2802bc753abfd2fec124196a9b050a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/43cd6bc9e1305ef0e609553b862e4c91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/da55a8627a6f4167cd498d61347a67de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69279b99cf5e7dd53a5ad7452a387b14/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0ca21e6307c540d94fe2f6e1ceacf7d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1ebc0f015431d1d74fca0a4ed2b6a543/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dad66b2ed9ffcc506d0213a6e3d11ace/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bdb2b5baa9a59801838b4dc9589d1fcc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0d800b119c8a74af3e9f75fae3a6eefa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1f9e8b832d189810139c9198fe6a7e4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bf924bc32b46e27db0f09da862fc6936/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/4f8d8c5be88d6b9fc45c98e96cee26ae/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:3:3-63
+MERGED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:3:20-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:4:1-76
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:4:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:9:1-76
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:9:18-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:13:1-66
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:13:18-64
+uses-permission#android.permission.INTERNET
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:14:5-67
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:14:22-64
+application
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:16:5-34:19
+MERGED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:16:5-34:19
+MERGED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:16:5-34:19
+MERGED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/661bebd842147005ba694446a7762874/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/661bebd842147005ba694446a7762874/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e6d25ed935eb32bd05bd39ed46c6d4b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e6d25ed935eb32bd05bd39ed46c6d4b6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/97297662893be8b21dea2247f55c8247/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/97297662893be8b21dea2247f55c8247/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/59dc5272c96940463d1e3eb5c021f7cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/59dc5272c96940463d1e3eb5c021f7cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5dc2fec73b570b59240196147cdd70f8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5dc2fec73b570b59240196147cdd70f8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/53091cba5f41427a861424ca47fd704e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/53091cba5f41427a861424ca47fd704e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/afb244fe4293b3d66466d76cf12db8c9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/afb244fe4293b3d66466d76cf12db8c9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7edb164a014dc7fe27637cf4197e0e57/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7edb164a014dc7fe27637cf4197e0e57/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bf924bc32b46e27db0f09da862fc6936/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bf924bc32b46e27db0f09da862fc6936/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:18:7-39
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:18:7-39
+	tools:ignore
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:20:7-52
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:20:7-52
+	tools:targetApi
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:19:7-41
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:19:7-41
+	android:allowBackup
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:21:7-34
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:21:7-34
+	android:theme
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:22:7-38
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:22:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:17:7-38
+activity#com.fireapp.MainActivity
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:23:7-32:18
+	android:label
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:25:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:27:9-51
+	android:configChanges
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:26:9-79
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:24:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:30:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:33:7-84
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml:33:17-81
+uses-sdk
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9157f6b3b2958d6db5b6001325d87861/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9157f6b3b2958d6db5b6001325d87861/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/huzhiwu/Desktop/two/fireapp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/huzhiwu/Desktop/two/fireapp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/661bebd842147005ba694446a7762874/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/661bebd842147005ba694446a7762874/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e6d25ed935eb32bd05bd39ed46c6d4b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e6d25ed935eb32bd05bd39ed46c6d4b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1a56d08b15a5c92dd9bc919fd5b34531/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1a56d08b15a5c92dd9bc919fd5b34531/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/97297662893be8b21dea2247f55c8247/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/97297662893be8b21dea2247f55c8247/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/59dc5272c96940463d1e3eb5c021f7cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/59dc5272c96940463d1e3eb5c021f7cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5dc2fec73b570b59240196147cdd70f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5dc2fec73b570b59240196147cdd70f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/28def9ffa8dd0ff97e386ffba7f31e45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/28def9ffa8dd0ff97e386ffba7f31e45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/53091cba5f41427a861424ca47fd704e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/53091cba5f41427a861424ca47fd704e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/afb244fe4293b3d66466d76cf12db8c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/afb244fe4293b3d66466d76cf12db8c9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9e53486baf266fd8de90a40391f2661d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9e53486baf266fd8de90a40391f2661d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dcb9f1e498259e5293368f960e4406f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dcb9f1e498259e5293368f960e4406f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/6ec6d4c86a9124bf347cb52d9cca088f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/6ec6d4c86a9124bf347cb52d9cca088f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dc51e105496715cc5fcbadfa2e558209/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dc51e105496715cc5fcbadfa2e558209/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/36e880547dcdaed131a1532326e1cce5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/36e880547dcdaed131a1532326e1cce5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d9ce39555d70f60cd0b676da2f2fe3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d9ce39555d70f60cd0b676da2f2fe3a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0a2eb25abec71c84c9b668a1af93ff99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0a2eb25abec71c84c9b668a1af93ff99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d47e5afe950ddc82aa69b18d8869417f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d47e5afe950ddc82aa69b18d8869417f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e4674dbab185d121befd36e93ab73fc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e4674dbab185d121befd36e93ab73fc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d4819fa912ba3a12859bfedec8a501d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d4819fa912ba3a12859bfedec8a501d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/831a18d485a6dac72257d8e42070915e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/831a18d485a6dac72257d8e42070915e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/b9ef21159da220e5f6a9d177718d5494/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/b9ef21159da220e5f6a9d177718d5494/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e037e2e5fd330885c2d0d546678a2ccc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/e037e2e5fd330885c2d0d546678a2ccc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/88073dcb444fc624a1954be89b3aa2e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/88073dcb444fc624a1954be89b3aa2e9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9c8a0e65f7ef646c2b5e889bdfbf38d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9c8a0e65f7ef646c2b5e889bdfbf38d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/44e3804239d5e7934fbe803f7bc77a47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/44e3804239d5e7934fbe803f7bc77a47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/74de48aadae290ad6698225790d14693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/74de48aadae290ad6698225790d14693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/367c1ac510bf9114e500c93d5d1b5a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/367c1ac510bf9114e500c93d5d1b5a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/84168964ba14b9a4b973e25011851b4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/84168964ba14b9a4b973e25011851b4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/f5c918c2ed9db3e89228e38630697dbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/f5c918c2ed9db3e89228e38630697dbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/798b2e288218082d429669af7d3ff243/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/798b2e288218082d429669af7d3ff243/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/2d283ed3e8d13962d46bba9f2ce0bd73/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/2d283ed3e8d13962d46bba9f2ce0bd73/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/d70f0adde6bb0b88189296401cda92eb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/c6f5cbcacb3d4b2744f71b16f7b9c76e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/c6f5cbcacb3d4b2744f71b16f7b9c76e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9757fa8de8bfd2774bf68bda2fb405ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9757fa8de8bfd2774bf68bda2fb405ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7c710ac33bd8d4e072538b7db4efe02e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7c710ac33bd8d4e072538b7db4efe02e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5bbc3044c3c66c47fe22c32364ff0519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5bbc3044c3c66c47fe22c32364ff0519/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/72a4899c85aeffc9541006dbb21d1d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/72a4899c85aeffc9541006dbb21d1d05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7edb164a014dc7fe27637cf4197e0e57/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/7edb164a014dc7fe27637cf4197e0e57/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/779507d0c9fee81236258fc123036e53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/779507d0c9fee81236258fc123036e53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69ad141e8e26cdf6836ba8500ab61a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69ad141e8e26cdf6836ba8500ab61a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5584946cf40fa10cd1661fdf6c24b9f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/5584946cf40fa10cd1661fdf6c24b9f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/fa2802bc753abfd2fec124196a9b050a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/fa2802bc753abfd2fec124196a9b050a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/43cd6bc9e1305ef0e609553b862e4c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/43cd6bc9e1305ef0e609553b862e4c91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/da55a8627a6f4167cd498d61347a67de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/da55a8627a6f4167cd498d61347a67de/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69279b99cf5e7dd53a5ad7452a387b14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/69279b99cf5e7dd53a5ad7452a387b14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0ca21e6307c540d94fe2f6e1ceacf7d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0ca21e6307c540d94fe2f6e1ceacf7d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1ebc0f015431d1d74fca0a4ed2b6a543/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1ebc0f015431d1d74fca0a4ed2b6a543/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dad66b2ed9ffcc506d0213a6e3d11ace/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/dad66b2ed9ffcc506d0213a6e3d11ace/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bdb2b5baa9a59801838b4dc9589d1fcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bdb2b5baa9a59801838b4dc9589d1fcc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0d800b119c8a74af3e9f75fae3a6eefa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/0d800b119c8a74af3e9f75fae3a6eefa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1f9e8b832d189810139c9198fe6a7e4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/1f9e8b832d189810139c9198fe6a7e4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bf924bc32b46e27db0f09da862fc6936/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/bf924bc32b46e27db0f09da862fc6936/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/4f8d8c5be88d6b9fc45c98e96cee26ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/4f8d8c5be88d6b9fc45c98e96cee26ae/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/huzhiwu/Desktop/two/fireapp/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/huzhiwu/Desktop/two/fireapp/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-73
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/huzhiwu/Desktop/two/fireapp/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/52567482d211fb967648a17942b01044/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/huzhiwu/.gradle/caches/transforms-2/files-2.1/9f50cb3845ffb67b04903e7a01f01964/AndroidManifest.xml:24:13-58

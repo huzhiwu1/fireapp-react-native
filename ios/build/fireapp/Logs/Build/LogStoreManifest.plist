@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>27F23065-D97B-4150-9089-9ED7129DD6FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>27F23065-D97B-4150-9089-9ED7129DD6FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>fireapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>fireapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace fireapp with scheme fireapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>610512172.92112803</real>
+			<key>timeStoppedRecording</key>
+			<real>610512235.08147001</real>
+			<key>title</key>
+			<string>Building workspace fireapp with scheme fireapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>27F23065-D97B-4150-9089-9ED7129DD6FB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
